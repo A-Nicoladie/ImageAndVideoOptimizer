@@ -1,0 +1,12 @@
+# Ignore all
+/**
+
+# Except some files
+![0-9]*.bat
+!.gitignore
+!README.md
+!LICENSE
+
+# And except the folder "bin"
+!/bin/**
+!/bin
